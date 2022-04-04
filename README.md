@@ -1,9 +1,14 @@
 # <img src="https://cdn.iconscout.com/icon/free/png-256/html5-19-722707.png" alt="logo html" height="50px" width="50px"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="logo css" height="50px" width="50px">Projeto de uma página responsiva usando HTML e CSS 
-
-- Esse projeto foi desenvolvido como parte dos meus estudos sobre HTML e CSS
-- Foi criada uma página responsiva que se adapta a diferentes tamanhos de tela
-
----
+<table border="0.5">
+  <tr>
+    <td>
+      Esse projeto foi desenvolvido como parte dos meus estudos sobre HTML e CSS
+    </td>
+    <td>
+      Foi criada uma página responsiva que se adapta a diferentes tamanhos de tela
+    </td>
+  </tr>
+</table>
 
 ## Conhecimentos aplicados 📚
 - Box Model
